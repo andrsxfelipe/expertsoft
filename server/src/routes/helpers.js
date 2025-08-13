@@ -7,7 +7,7 @@ const db = await mysql.createConnection({
     host: 'localhost',
     user: 'Andrsxfelipe',
     password: 'idQ6kwx+',
-    database: 'prueba2'
+    database: 'expertsoft'
 });
 
 console.log('Conectado exitosamente a la BD');
